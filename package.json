@@ -26,7 +26,7 @@
     "test:coverage": "vitest --coverage",
     "lint": "eslint src/**/*.ts",
     "format": "prettier --write \"src/**/*.ts\"",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "pnpm run build"
   },
   "keywords": [
     "markdown",
@@ -58,5 +58,6 @@
   "bugs": {
     "url": "https://github.com/NotKeira/typemark/issues"
   },
-  "homepage": "https://github.com/NotKeira/typemark#readme"
+  "homepage": "https://github.com/NotKeira/typemark#readme",
+  "packageManager": "pnpm@10.21.0+sha256.6f3df2197bd017a97f1af5eb9ab19a8cf1ae41bcc5917cf36d505bc9a83b9578"
 }
