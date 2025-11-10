@@ -1,5 +1,5 @@
 /**
- * TypeDown - Position Tracking Types
+ * TsMark - Position Tracking Types
  * @module types/position
  * @author NotKeira
  * @version 1.0.0

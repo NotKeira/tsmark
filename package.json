@@ -1,5 +1,5 @@
 {
-  "name": "typedown",
+  "name": "tsmark",
   "version": "1.0.0",
   "description": "A fully type-safe, efficient TypeScript Markdown parser with lexer, parser, and AST visitor",
   "main": "dist/index.js",
@@ -53,11 +53,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NotKeira/typedown.git"
+    "url": "https://github.com/NotKeira/tsmark.git"
   },
   "bugs": {
-    "url": "https://github.com/NotKeira/typedown/issues"
+    "url": "https://github.com/NotKeira/tsmark/issues"
   },
-  "homepage": "https://github.com/NotKeira/typedown#readme",
+  "homepage": "https://github.com/NotKeira/tsmark#readme",
   "packageManager": "pnpm@10.21.0+sha256.6f3df2197bd017a97f1af5eb9ab19a8cf1ae41bcc5917cf36d505bc9a83b9578"
 }

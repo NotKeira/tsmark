@@ -1,5 +1,5 @@
 /**
- * TypeDown - Token Type Definitions
+ * TsMark - Token Type Definitions
  * @module types/tokens
  * @author NotKeira
  * @version 1.0.0

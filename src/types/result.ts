@@ -1,5 +1,5 @@
 /**
- * TypeDown - Parse Result Types
+ * TsMark - Parse Result Types
  * @module types/result
  * @author NotKeira
  * @version 1.0.0

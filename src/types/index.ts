@@ -1,5 +1,5 @@
 /**
- * TypeDown - Type Definitions Barrel Export
+ * TsMark - Type Definitions Barrel Export
  * @module types
  * @author NotKeira
  * @version 1.0.0
@@ -12,7 +12,7 @@ export type {TokenType, Token} from './tokens';
 export type {ASTNode, ASTVisitor} from './ast';
 
 // Configuration types
-export type {TypeDownOptions} from './options';
+export type {TsMarkOptions} from './options';
 
 // Position types
 export type {Position} from './position';
