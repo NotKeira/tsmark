@@ -8,7 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-
 - Initial project setup with pnpm workspace configuration
 - Package.json with project metadata and build scripts
     - Configured for dual CJS/ESM output
@@ -29,16 +28,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Core type definitions
     - Token and TokenType for lexer output
     - ASTNode and ASTVisitor for parser and traversal
-    - TypeMarkOptions for parser configuration
+    - TSMarkOptions for parser configuration
     - Position interface for source location tracking
     - ParseResult interface for parse operation output
     - Organized into logical modules with barrel export
+- README.md with project overview and current status
+    - Work-in-progress disclaimer
+    - Feature roadmap
+    - Type system documentation
+    - Development setup instructions
+    - Project structure overview
 
 ### Changed
-
 - Updated prepublishOnly script to use pnpm instead of npm
 - Configured pnpm@10.21.0 with integrity hash for Corepack
 - Rebranded package from typemark to typedown to avoid naming conflicts
-- Rebranded package from typedown to tsmark to avoid naming conflicts (yet again, i know im dumb)
+- Rebranded package from typedown to tsmark to avoid naming conflicts
 
 [Unreleased]: https://github.com/NotKeira/tsmark/compare/v0.1.0...HEAD
